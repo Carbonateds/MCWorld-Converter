@@ -12,7 +12,7 @@
 
 如何使用：
 
-下载并解压，运行Minecraft World Converter.exe并在弹窗中选择加密的存档。大概十秒钟后，出现成功弹窗后，即可将存档拖入基岩版存档文件夹中，进入游戏可直接读取。
+**[在此下载](https://github.com/Carbonateds/MCWorld-Converter/releases/tag/1.0.0)**并解压，运行Minecraft World Converter.exe并在弹窗中选择加密的存档。大概十秒钟后，出现成功弹窗后，即可将存档拖入基岩版存档文件夹中，进入游戏可直接读取。
 
 ---
 
